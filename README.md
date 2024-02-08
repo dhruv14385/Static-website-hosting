@@ -11,5 +11,5 @@ Overview of steps as below
 *	Update Bucket policy to allow access from your domain
 *	Go to Route 53 hosted zone and  select your domain name
 *	Create record -> Define simple record
-*	Add your subdomain, record type a nd select Route traffic to S3 bucket 
+*	Add your subdomain, record type and select Route traffic to S3 bucket 
 
